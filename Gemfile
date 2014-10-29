@@ -65,4 +65,5 @@ group :production do
   # Use PostgreSQL as the database for Active Record for production
   gem 'pg'
   gem 'rails_12factor'
+  gem 'unicorn'
 end
